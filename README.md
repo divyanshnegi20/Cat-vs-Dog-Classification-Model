@@ -5,6 +5,7 @@ PROJECT TITLE: Convolutional Neural Network for Cat vs Dog Image Classification
 
 OBJECTIVE: 
 Develop CNN for binary classification of cat/dog images using TensorFlow/Keras.
+
 YOU CAN ACCESS THE DATASET FROM KAGGLE.
 
 MODEL ARCHITECTURE:
@@ -23,4 +24,4 @@ QUICK START:
 4. python evaluate_model.py → Full model evaluation
 5. python visualize_architecture.py → architecture.png
 
-AUTHOR: Nanu Negi | Dehradun, India
+AUTHOR: Hawks Code | Dehradun, India
